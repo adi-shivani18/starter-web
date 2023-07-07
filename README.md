@@ -7,5 +7,9 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## introduction
  THIS IS EXPAMPLE NSDUFSF SUBNF DHVHDF HFVNDSFVSA
+
 ## prpose
+dashsfsdnfsdgfjsd jfgdjgdj jfgdsjfgsaj jfsdj
+
 ## deployment
+dhdgi jfhjfbe jfef 
