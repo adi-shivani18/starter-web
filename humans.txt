@@ -2,7 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    shivani dwiveshi
+    dhash@dwivedi
     <name> -- <role> -- <twitter>
 
 # THANKS
