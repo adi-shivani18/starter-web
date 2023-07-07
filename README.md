@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+this is simple website prject for showing git and github
 This repository is for showing how Git and GitHub work
 
 ## Purpose
